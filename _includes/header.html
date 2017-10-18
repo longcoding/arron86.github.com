@@ -14,8 +14,7 @@
     <ul class="search__results" id="results-container"></ul>
 
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/til/' and page.url != '/about/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
-        <li class="{% if page.url == '/til/' %} active {% endif %}"><a href="{{ base_path }}/til/">TIL</a></li>
+        <li class="{% if page.url != '/about/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
         <li class="{% if page.url == '/about/' %} active {% endif %}"><a href="{{ base_path }}/about/">소개</a></li>
     </ul>
 </div>

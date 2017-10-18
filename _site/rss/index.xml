@@ -3,17 +3,17 @@
   <channel>
     <title>arron 개인 블로그</title>
     <description>arron 개인 블로그 입니다.
-일상생활, TIL 다양한 이야기를 공유합니다.
+일상생활, TIL 등 다양한 이야기를 공유합니다.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/rss" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Oct 2017 16:13:46 +0900</pubDate>
-    <lastBuildDate>Tue, 17 Oct 2017 16:13:46 +0900</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2017 17:33:25 +0900</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2017 17:33:25 +0900</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>Init 블로그</title>
-        <description>&lt;p&gt;GitHub 블로그를 개설합니다.&lt;/p&gt;
+        <description>&lt;p&gt;새롭게 GitHub 블로그를 개설합니다.&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 13:00:00 +0900</pubDate>
         <link>http://localhost:4000/2017/10/17/init/</link>

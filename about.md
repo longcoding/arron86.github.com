@@ -1,12 +1,18 @@
 ---
 layout: page
-title: About
+title: 소개
 permalink: /about/
-image: /files/covers/blog.jpg
+image: /files/covers/about_cover.jpg
 sitemap: yes
 tags: [about]
 ---
 
-[신정섭](https://arron86.github.io) 개인블로그 입니다.
+현재 **SK planet**에서 Software Develop로 일하고 있습니다.
 
-Powered by [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com).
+## SK planet
+
+* 재직: 2012년 1월 1일 ~ 현재
+* 내용: SK planet Software Developer
+
+---
+이메일: [arron.shin@gmail.com](mailto:arron.shin@gmail.com)
