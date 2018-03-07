@@ -7,7 +7,7 @@ sitemap: yes
 tags: [about]
 ---
 
-현재 **SK planet**에서 Software Develop로 일하고 있습니다.
+현재 **SK planet**에서 Software Developer로 일하고 있습니다.
 
 ## SK planet
 
@@ -15,4 +15,4 @@ tags: [about]
 * 내용: SK planet Software Developer
 
 ---
-이메일: [arron.shin@gmail.com](mailto:arron.shin@gmail.com)
+이메일: [longcoding@gmail.com](mailto:longcoding@gmail.com)
